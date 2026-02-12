@@ -1,1 +1,3 @@
-print("Hello from WSL and GitHub!")
+x= "Test string"
+y = "It works"
+print(f"{x} {y}")
