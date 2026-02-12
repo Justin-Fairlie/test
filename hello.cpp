@@ -2,6 +2,6 @@
 usign namespace std;
 
 int main(){
- cout<< "Hello form C++";
+ cout<< "Hello from C++";
  return 0;
 }
