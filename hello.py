@@ -1,3 +1,7 @@
 x= "Test string"
 y = "It works"
-print(f"{x} {y}")
+
+name = "test"
+f = name
+
+print(f"{x} {y} {f}")
