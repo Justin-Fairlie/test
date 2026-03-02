@@ -1,7 +1,8 @@
 x= "Test string"
-y = "It works"
+y = "It works!"
+i = 10
 
 name = "test"
 f = name
 
-print(f"{x} {y} {f}")
+print(f"{x} {y} {f} = {i}")
